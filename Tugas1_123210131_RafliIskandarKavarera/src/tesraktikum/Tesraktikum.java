@@ -3,19 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package tugas1_123210131_rafli.iskandar.kavarera;
+package tesraktikum;
 
 /**
  *
  * @author rafli
  */
-public class Tugas1_123210131_RafliIskandarKavarera {
+public class Tesraktikum {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        // TODO code application logic here
+        final String tes="tes";
+        System.out.println(tes);
+        MainForm mf = new MainForm();
     }
     
 }
