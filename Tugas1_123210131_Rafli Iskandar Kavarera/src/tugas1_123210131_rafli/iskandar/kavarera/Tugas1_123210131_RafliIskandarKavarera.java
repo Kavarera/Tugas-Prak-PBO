@@ -15,7 +15,7 @@ public class Tugas1_123210131_RafliIskandarKavarera {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
