@@ -15,7 +15,7 @@ import tesraktikum.Interface.MenghitungRuang;
 public class Balok extends PersegiPanjang implements MenghitungRuang{
     
     private double tinggi;
-    Balok(double tinggi,double lebar,double panjang){
+    public Balok(double tinggi,double lebar,double panjang){
         super(lebar,panjang);
         this.tinggi = tinggi;
     }

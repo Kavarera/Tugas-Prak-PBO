@@ -15,7 +15,7 @@ import tesraktikum.Interface.MenghitungRuang;
 public class Tabung extends Lingkaran implements MenghitungRuang {
 
     final private double tinggi;
-    Tabung(double tinggi, double j){
+    public Tabung(double tinggi, double j){
         super(j);
         this.tinggi=tinggi;
     }

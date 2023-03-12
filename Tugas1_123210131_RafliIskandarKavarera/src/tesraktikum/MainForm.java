@@ -31,6 +31,11 @@ public class MainForm extends JFrame {
         Menu1.addActionListener(e->{
             Menu1 jd = new Menu1();
             System.out.println("DILIK");
+
+        });
+        Menu2.addActionListener(e->{
+            Menu2 a = new Menu2();
+            System.out.println("Menu 2 jalan");
         });
         
         add(Menu1);
