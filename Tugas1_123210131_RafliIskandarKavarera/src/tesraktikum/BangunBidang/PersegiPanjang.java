@@ -35,7 +35,6 @@ public class PersegiPanjang implements MenghitungBidang {
 
     @Override
     public double GetLuas() {
-        System.out.println(panjang*lebar);
         return panjang*lebar;
     }
 }
