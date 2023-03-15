@@ -16,6 +16,7 @@ public class LatihanEventListener {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Latihan be = new Latihan();
     }
     
 }
